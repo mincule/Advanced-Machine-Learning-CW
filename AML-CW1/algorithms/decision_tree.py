@@ -1,3 +1,8 @@
+# Reference
+# python-engineer, MLfromscratch, (2021), GitHub repository,
+# https://github.com/python-engineer/MLfromscratch/blob/master/mlfromscratch/decision_tree.py
+
+
 from collections import Counter
 
 import numpy as np
